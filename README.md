@@ -64,5 +64,5 @@ Built using the **Pint library** for accurate scientific conversions.
 
 ## 📬 Contact
 For queries, connect with me on **LinkedIn** or reach out via **Email:**:  
-- 🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
+- **LinkedIn** 🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
 - **Email:** hareemfarooqi2134@gmail.com
