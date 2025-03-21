@@ -1,4 +1,4 @@
-# **🔄 Google Unit Converter**
+# **🔄 Unit Converter**
 
 ## **📌 Overview**  
 A **Streamlit-based unit conversion app** that allows users to **convert between various units** across multiple categories like **length, weight, temperature, volume, and more**.  
@@ -18,8 +18,8 @@ Built using the **Pint library** for accurate scientific conversions.
 ## **🛠️ Installation**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/google-unit-converter.git
-   cd google-unit-converter
+   git clone https://github.com/Hareem2134/Unit-Converter-Streamlit-App
+   cd unit-converter-streamlit-app
    ```
 
 2. **Install dependencies:**  
